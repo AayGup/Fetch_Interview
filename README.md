@@ -94,3 +94,14 @@ Use the following curl command to get the current balance:
 ```bash
 curl http://localhost:8000/balance
 ```
+
+## Wrapper Program
+### menu.py
+A separate program, menu.py, is provided to act as a wrapper for the curl commands. This program offers a menu for easier execution of the API endpoints.
+
+Usage
+- Ensure the API is running on http://localhost:8000.
+- Run the menu.py script:
+```bash
+python menu.py
+```
