@@ -1,0 +1,17 @@
+Q1) Why did you choose the tools, libraries, and language you used for the coding exercise?
+Ans) I selected Python as the programming language due to its widespread use, readability, and extensive library support. For the REST API, I opted for Flask, a lightweight and user-friendly web framework. Flask is particularly suitable for small to medium-sized web applications, offering a straightforward and intuitive API for defining routes and handling requests efficiently.
+
+Q2) What are the advantages and disadvantages of your solution?
+Ans) Advantages:
+- The solution is straightforward and easy to comprehend.
+- Flask's lightweight nature and low learning curve facilitate quick development and deployment of REST APIs.
+- Python's readability and maintainability enhance the overall quality of the code.
+- The implementation effectively addresses the core requirements of adding points, spending points, and retrieving the current balance.
+
+Disadvantages:
+- Flask may not be suitable for very large-scale applications due to its simplicity and lack of built-in features for scalability.
+- The solution assumes a single user and does not handle multiple users or accounts, which may be a limitation in a real-world scenario.
+- Error handling could be improved to provide more detailed error messages and handle edge cases more gracefully.
+
+Q3) What has been a favorite school/personal project thus far? What about it that challenged you?
+Ans)
