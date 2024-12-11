@@ -14,4 +14,16 @@ Disadvantages:
 - Error handling could be improved to provide more detailed error messages and handle edge cases more gracefully.
 
 Q3) What has been a favorite school/personal project thus far? What about it that challenged you?
-Ans)
+Ans) One of my favorite college projects was a research initiative that was published in IEEE, titled "Smart Camera for Enforcing Social Distancing." This project focused on developing a real-time model for detecting social distancing violations with high precision and recall. More details can be found in the IEEE publication https://ieeexplore.ieee.org/abstract/document/9701079.
+
+Challenges Faced
+- Coordination During COVID-19: Remote work during the pandemic made coordination difficult, requiring frequent virtual meetings and extensive use of collaboration tools to resolve misalignments and code issues.
+- Real-Time Performance: Ensuring the model was fast and efficient enough for real-time results required extensive optimization and testing, balancing speed with accuracy through iterative improvements.
+- Maintaining Precision and Recall: Achieving high precision and recall involved deep algorithmic understanding and experimentation, carefully analyzing trade-offs to select the best techniques.
+
+Key Takeaways
+- Adaptability: Learned to find creative solutions to challenges posed by remote work.
+- Collaboration: Emphasized the importance of effective communication and documentation.
+- Technical Skills: Enhanced skills in model optimization and performance tuning, balancing speed, precision, and recall.
+
+Overall, this project was a significant learning experience, improving my technical knowledge and teamwork abilities under challenging circumstances.
